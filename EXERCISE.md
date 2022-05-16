@@ -1,10 +1,8 @@
 ## REWE Timeslots Exercise
 
-A small React application for displaying and filtering timeslots.
-
 ### Start
 
-Enter `npm start` to run execute script.
+Enter `npm start` to run execute the script `index.ts`.
 
 ## Tasks
 
